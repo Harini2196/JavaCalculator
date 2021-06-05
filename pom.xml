@@ -24,8 +24,12 @@
     <url>http://35.169.107.34:8081/nexus/content/repositories/test</url>
 		</repository>-->
   <snapshotRepository>
-    <id>test</id>
-    <url>http://35.169.107.34:8081/nexus/content/repositories/test</url>
+    <id>snapshots</id>
+    <url>http://3.80.10.83:8081/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
+  <repository>
+    <id>releases</id>
+    <url>http://3.80.10.83:8081/nexus/content/repositories/releases</url>
+  </repository>
 </distributionManagement>   
 </project>
