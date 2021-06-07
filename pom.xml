@@ -25,11 +25,11 @@
 		</repository>-->
   <snapshotRepository>
     <id>snapshots</id>
-    <url>http://3.80.10.83:8081/nexus/content/repositories/snapshots</url>
+    <url>http://3.227.229.173:8081/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
   <repository>
     <id>releases</id>
-    <url>http://3.80.10.83:8081/nexus/content/repositories/releases</url>
+    <url>http://3.227.229.173:8081/nexus/content/repositories/releases</url>
   </repository>
 </distributionManagement>   
 </project>
